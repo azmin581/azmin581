@@ -42,12 +42,12 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azminahmed&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azminahmed&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=azmin581&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azmin581&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azminahmed&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azmin581&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ### 🧩 GitHub Contributions Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azminahmed&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azmin581&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
@@ -73,10 +73,10 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/azminahmed/" target="_blank">
+  <a href="[https://www.linkedin.com/in/azminahmed/](https://www.linkedin.com/in/khondoker-azmin-ahmed-129593116)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kazminahmed@gmail.com">
+  <a href="mailto:azmin.pstu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
