@@ -64,9 +64,9 @@
 
 | Repository | Description |
 |------------|-------------|
-| [📊 Sales Dashboard](https://github.com/azminahmed/sales-analysis-dashboard) | Power BI dashboard with sales KPIs |
-| [📦 FMCG Supply Chain](https://github.com/azminahmed/fmcg-supply-chain-analysis) | SQL-based supply chain performance reporting |
-| [📈 HR Analytics](https://github.com/azminahmed/hr-analytics) | HR insights using Power BI + Excel |
+| [📊 Sales Dashboard](https://gqr.sh/hDtL) | Power BI dashboard with sales KPIs |
+| [📦 FMCG Supply Chain](https://gqr.sh/Hc5c) | Power BI-based supply chain performance reporting |
+| [📈 HR Analytics](https://gqr.sh/vWPx) | HR insights using Power BI + Excel |
 
 ---
 
