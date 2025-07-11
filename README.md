@@ -73,7 +73,7 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="[https://www.linkedin.com/in/azminahmed/](https://www.linkedin.com/in/khondoker-azmin-ahmed-129593116)" target="_blank">
+  <a href="(https://www.linkedin.com/in/khondoker-azmin-ahmed-129593116)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:azmin.pstu@gmail.com">
